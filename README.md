@@ -1,4 +1,4 @@
-## Bank card
+## PARQUET-FLOOR
 
 ## 🔗[Demo Project](https://sepehrnekooian.github.io/PARQUET-FLOOR/)
 
@@ -9,7 +9,7 @@
 
 ## 📅 Created On: Octomber 16, 2025
 
-## 💻Technologies Used:JavaScript, html, Css.
+## 💻Technologies Used:BootStrap, JavaScript, html, Css.
 
 ## 📬 How to Reach Me:
 
