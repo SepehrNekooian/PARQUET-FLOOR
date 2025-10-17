@@ -2,6 +2,8 @@
 
 ## 🔗[Demo Project](https://sepehrnekooian.github.io/PARQUET-FLOOR/)
 
+<img width="1011" height="603" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/a19e77e8-5dbc-488f-a410-79c0d853a75d" />
+
 
 ## 👨‍💻 Developed By: Sepehr Nekooian
 
